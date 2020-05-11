@@ -15,3 +15,12 @@ visualization tools for cnns and tracking
         <img src="heatmap_tools/demo/heatmap3D.jpg" width="125">
     </a>
 </p>
+
+## visual tracking tools
+
+#### view tracking bboxes from txt result(as a qualitative compare of trackers). [[code]](visual_tracking_tools/viewbbox.py)
+<p align="center">
+    <a>
+        <img src="visual_tracking_tools/demo/bbox_compare.jpg" width="250">
+    </a>
+</p>
