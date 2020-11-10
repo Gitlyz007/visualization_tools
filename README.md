@@ -31,6 +31,6 @@ visualization tools for cnns and tracking
 #### draw a 2d plot, e.g. ACC v.s. Parameter. [[code]](plot_tools/acc_vs_param.m)
 <p align="center">
     <a>
-        <img src="plot_tools/demo/acc_vs.jpg" width="550">
+        <img src="plot_tools/demo/acc_vs.png" width="550">
     </a>
 </p>
