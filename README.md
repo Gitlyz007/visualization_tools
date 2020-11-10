@@ -1,7 +1,7 @@
-# visualization_tools
-visualization tools for cnns and tracking
+# Visualization_tools
+Visualization tools for cnns and tracking
 
-## visualize heatmaps
+## Visualize heatmaps
 #### heatmap2D (a 2D matrix response add with origin image). [[code]](heatmap_tools/Heatmap.py)
 <p align="center">
     <a>
@@ -16,9 +16,9 @@ visualization tools for cnns and tracking
     </a>
 </p>
 
-## visual tracking tools
+## Visual tracking tools
 
-#### view tracking bboxes from txt result(as a qualitative compare of trackers). [[code]](visual_tracking_tools/viewbbox.py)
+#### View tracking bboxes from txt result(as a qualitative compare of trackers). [[code]](visual_tracking_tools/viewbbox.py)
 <p align="center">
     <a>
         <img src="visual_tracking_tools/demo/bbox_compare.jpg" width="550">
@@ -26,9 +26,10 @@ visualization tools for cnns and tracking
 </p>
 
 
-## plot tools
+## Plot tools
 
-#### draw a 2d plot, e.g. ACC v.s. Parameter. [[code]](plot_tools/acc_vs_param.m)
+#### Draw a 2d plot, e.g. ACC v.s. Parameter. [[code]](plot_tools/acc_vs_param.m)
+The label may need fine-tune manually by pdf editer like Acrobat.
 <p align="center">
     <a>
         <img src="plot_tools/demo/acc_vs.png" width="550">
