@@ -21,6 +21,6 @@ visualization tools for cnns and tracking
 #### view tracking bboxes from txt result(as a qualitative compare of trackers). [[code]](visual_tracking_tools/viewbbox.py)
 <p align="center">
     <a>
-        <img src="visual_tracking_tools/demo/bbox_compare.jpg" width="250">
+        <img src="visual_tracking_tools/demo/bbox_compare.jpg" width="550">
     </a>
 </p>
