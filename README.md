@@ -24,3 +24,13 @@ visualization tools for cnns and tracking
         <img src="visual_tracking_tools/demo/bbox_compare.jpg" width="550">
     </a>
 </p>
+
+
+## plot tools
+
+#### draw a 2d plot, e.g. ACC v.s. Parameter. [[code]](plot_tools/acc_vs_param.m)
+<p align="center">
+    <a>
+        <img src="plot_tools/demo/acc_vs.jpg" width="550">
+    </a>
+</p>
