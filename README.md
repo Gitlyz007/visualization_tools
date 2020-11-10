@@ -30,10 +30,11 @@ Visualization tools for cnns and tracking
 
 #### Draw a 2d plot, e.g. ACC v.s. Parameter. [[code]](plot_tools/acc_vs_param.m)
 
-The label may need fine-tune manually by pdf editer like Acrobat.
 
 <p align="center">
     <a>
+        
+The label may need fine-tune manually by pdf editer like Acrobat.
         <img src="plot_tools/demo/acc_vs.png" width="550">
     </a>
 </p>
