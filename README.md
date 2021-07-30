@@ -28,7 +28,7 @@ Visualization tools for cnns and tracking
 #### Tracking IoU vs target size (result txts). [[code]](visual_tracking_tools/IoU_vs_targetsize/IoU_Count.py)
 <p align="center">
     <a>
-        <img src="visual_tracking_tools/demo/iou_size.jpg" width="550">
+        <img src="visual_tracking_tools/demo/iou_size.png" width="550">
     </a>
 </p>
 
