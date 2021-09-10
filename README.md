@@ -35,7 +35,7 @@ Visualization tools for cnns and tracking
 
 ## Plot tools
 
-#### Draw a 2D plot, e.g. ACC v.s. Parameter. [[code]](plot_tools/acc_vs_param.m)
+#### Draw a 2D plot, e.g. ACC v.s. Parameter. [[matlab_code]](plot_tools/acc_vs_param.m)
 
 The label may need fine-tune manually by pdf editer like Acrobat.
 <p align="center">
