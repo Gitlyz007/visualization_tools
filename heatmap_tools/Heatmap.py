@@ -1,13 +1,9 @@
 import numpy as np
 import cv2 as cv
 
-
-#     res1 = torch.sum(pool5[0], 0).cpu().detach().numpy()
-#     res2 = torch.sum(relu5_2[0], 0).cpu().detach().numpy()
-
-# image: Generally input image.
+# image: opencv image.
 # response: output from CNN, usually more than 1 dim,
-#           you need to sum them to 1 dim.
+#           you need to sum them to 1 dim or select specific channels .
 # aphla: ratio of img and heatcolor
 # Use as Heatmap.show_heatmap(image, response)
 
