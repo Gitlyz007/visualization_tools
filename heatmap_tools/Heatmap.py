@@ -1,11 +1,11 @@
 import numpy as np
 import cv2 as cv
 
-# image: opencv image.
-# response: output from CNN, usually more than 1 dim,
-#           you need to sum them to 1 dim or select specific channels .
-# aphla: ratio of img and heatcolor
-# Use as Heatmap.show_heatmap(image, response)
+# image(H*W*3): opencv image.
+# response(H*W): output from CNN, usually more than 1 dim,
+#                you need to sum them to 1 dim or select specific channels .
+# aphla(0-1): ratio of img and heatcolor
+# Use as get_heatmap(image, response)
 
 def get_heatmap(image, response, alpha=0.7):
     # Transform response to colormap
