@@ -5,7 +5,9 @@ import cv2 as cv
 # response(H*W): output from CNN, usually more than 1 dim,
 #                you need to sum them to 1 dim or select specific channels .
 # aphla(0-1): ratio of img and heatcolor
-# Use as get_heatmap(image, response)
+# Use as follow:
+# heatmap = get_heatmap(image, response)
+# cv.imshow(heatmap)
 
 def get_heatmap(image, response, alpha=0.7):
     # Transform response to colormap
